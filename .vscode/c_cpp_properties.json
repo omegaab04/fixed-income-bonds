@@ -1,16 +1,19 @@
 {
     "configurations": [
-        {
-            "name": "Mac",
-            "includePath": [
-                "${workspaceFolder}/**"
-            ],
-            "defines": [],
-            "compilerPath": "/usr/bin/clang",
-            "cStandard": "c17",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "macos-clang-arm64"
-        }
+      {
+        "name": "Mac",
+        "includePath": [
+          "${workspaceFolder}/**",
+          "/Library/Frameworks/Python.framework/Versions/3.13/include/python3.13",
+          "/Library/Developer/CommandLineTools/usr/lib/clang/16/include",
+          "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"
+        ],
+        "defines": [],
+        "compilerPath": "/usr/bin/clang",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "macos-clang-x64"
+      }
     ],
     "version": 4
-}
+  }
