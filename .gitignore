@@ -1,9 +1,8 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *.so
 
-# C extension build artifacts
+
 build/
 dist/
 *.egg-info/
@@ -14,23 +13,21 @@ dist/
 *.a
 *.lib
 
-# Mac system files
 .DS_Store
 
-# VS Code config
 .vscode/
 
-# Compiled shared object files
+
 *.cpython-*.so
 
-# Backup files
+
 *~
 *.swp
 
-# PyInstaller
+
 *.spec
 
-# Test/output files
+
 *.log
 *.out
 *.tmp
