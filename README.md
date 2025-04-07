@@ -46,6 +46,7 @@ Just change the parameters to your liking.
 ---
 
 This project has an MIT License.
+
 ---
 
 Email me at adam.bouchenaf23@gmail.com
