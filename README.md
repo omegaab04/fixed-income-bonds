@@ -6,12 +6,6 @@ Oh yeah. And you can call the code in **Python**.
 
 ---
 
-# Clone Repo
-```sh
-git clone https://github.com/omegaab04/bond-pricing.git
-cd bond-pricing
-```
-
 Below is a sample script showing how to use the bond pricing module.
 
 First, call
